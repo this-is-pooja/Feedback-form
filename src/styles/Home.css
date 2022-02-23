@@ -1,0 +1,16 @@
+.form-head{
+    color: #2A62B7;
+    font-size: 18px;
+    margin: 0;
+  }
+  .form-sub-head{
+    color: #707070;
+    font-size: 14px;
+    margin: 0;
+  }
+  .content-box{
+    padding: 1rem;
+  }
+  body{
+    background-color: #f5f5f5;
+  }
